@@ -1,0 +1,8 @@
+1.  [Wiki Java_API_for_XML_Processing](http://en.wikipedia.org/wiki/Java_API_for_XML_Processing)
+2.  [DOM XML parser documentation](http://java.sun.com/j2se/1.5.0/docs/api/org/w3c/dom/package-summary.html)
+3.  [JDOM XML parser](http://www.jdom.org/)
+4.  [SAX useful quick start example](http://www.saxproject.org/quickstart.html)
+5.  [SAX XML parser documentation](http://java.sun.com/j2se/1.5.0/docs/api/org/xml/sax/package-summary.html)
+6.  [JAXB Official Website](http://jaxb.java.net/tutorial/index.html)
+7.  [Properties documentation](http://download.oracle.com/javase/1.5.0/docs/api/java/util/class-use/Properties.html)
+8.  [Processing XML with Java](http://www.cafeconleche.org/books/xmljava/chapters/index.html)
