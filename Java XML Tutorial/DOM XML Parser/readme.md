@@ -1,0 +1,1 @@
+The DOM is the easiest to use Java XML Parser. It parses an entire XML document and load it into memory, modeling it with Object for easy nodel traversal. DOM Parser is slow and consume a lot memory if it load a XML document which contains a lot of data.
