@@ -1,0 +1,1 @@
+The “PreparedStatement” interface is extended “Statement”, with extra feature to send a pre-compiled SQL statement with parameters. For create, insert, update or delete statement, uses “PreparedStatement.executeUpdate(sql)“; select query, uses “PreparedStatement.executeQuery(sql)“.
